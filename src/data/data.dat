@@ -1,0 +1,21 @@
+-------------- required parameters --------------
+numSims 5000
+numSimsBeta 10000
+timeSteps 32
+S0 85.0
+strike 100.0
+r 0.06
+sigma 0.4
+maturity 0.5
+J 4
+-------------- approximated value functions parameters --------------
+numSuccessors 500
+-------------- stopping rules parameters --------------
+subSims 1000
+-------------- MLMC parameters --------------
+numSimsPilot 2000
+epsilon 0.0001
+kappa 2
+stride 1
+-------------- optional parameters --------------
+
