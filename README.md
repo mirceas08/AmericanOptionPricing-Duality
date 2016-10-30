@@ -42,3 +42,7 @@ Research, 52(2), 2004.
 
 [4] C. Sanderson. Armadillo: an open source C++ linear algebra library for fast prototyping
 and computationally intensive experiments. Technical report, NICTA, 2010.
+
+License
+===========
+Code freely available under the GNU General Public License.
