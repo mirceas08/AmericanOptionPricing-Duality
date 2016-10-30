@@ -16,11 +16,11 @@ Primal-dual executables
 * dualAVF (Dual martingale constructed through Approximate Value Functions)
 * dualSR (Dual martingale constructed through Stopping Rules)
 
-to compile the code type
+To compile the code type
 
 >make
 
-to run the code type
+Run the code with
 
 >./executable datafile
 
