@@ -27,7 +27,7 @@ Run the code with
 Acknowledgments
 ===========
 * My supervisor, Professor Anna Battauz (Bocconi University), for the guidance and help throughout the thesis project
-* Professor Francesca Maggioni (University of Bergamo) and CINECA Computing Centre for providing me computing hours on Cineca's distributed cluster Galilei
+* Professor Francesca Maggioni (University of Bergamo) and CINECA Computing Centre for providing me computing hours on Cineca's distributed cluster Galileo
 
 References
 ===========
